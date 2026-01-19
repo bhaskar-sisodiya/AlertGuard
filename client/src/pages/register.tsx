@@ -57,7 +57,7 @@ export function RegisterPage() {
             <div className="bg-primary-foreground/10 p-3 rounded-xl backdrop-blur-sm">
               <ShieldCheck className="h-8 w-8" />
             </div>
-            <span className="text-2xl font-bold">AlertGuard</span>
+            <span className="text-2xl font-bold">UltraWatch</span>
           </div>
 
           <div className="space-y-6 max-w-md">
@@ -111,7 +111,7 @@ export function RegisterPage() {
               <div className="bg-success/10 p-2 rounded-lg">
                 <ShieldCheck className="h-6 w-6 text-success" />
               </div>
-              <span className="text-xl font-bold">AlertGuard</span>
+              <span className="text-xl font-bold">UltraWatch</span>
             </div>
           </div>
 

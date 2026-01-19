@@ -49,7 +49,7 @@ export function LoginPage() {
             <div className="bg-primary-foreground/10 p-3 rounded-xl backdrop-blur-sm">
               <ShieldCheck className="h-8 w-8" />
             </div>
-            <span className="text-2xl font-bold">AlertGuard</span>
+            <span className="text-2xl font-bold">UltraWatch</span>
           </div>
 
           <div className="space-y-6 max-w-md">
@@ -102,7 +102,7 @@ export function LoginPage() {
               <div className="bg-primary/10 p-2 rounded-lg">
                 <ShieldCheck className="h-6 w-6 text-primary" />
               </div>
-              <span className="text-xl font-bold">AlertGuard</span>
+              <span className="text-xl font-bold">UltraWatch</span>
             </div>
           </div>
 
@@ -199,7 +199,7 @@ export function LoginPage() {
             </div>
             <div className="relative flex justify-center text-xs uppercase">
               <span className="bg-background px-2 text-muted-foreground">
-                New to AlertGuard?
+                New to UltraWatch?
               </span>
             </div>
           </div>

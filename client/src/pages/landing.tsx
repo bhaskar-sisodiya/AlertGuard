@@ -105,7 +105,7 @@ export function LandingPage() {
             <div className="bg-severity-high/10 p-2 rounded-lg">
               <ShieldCheck className="h-6 w-6 text-severity-high" />
             </div>
-            <span className="text-xl font-bold">AlertGuard</span>
+            <span className="text-xl font-bold">UltraWatch</span>
           </div>
           <div className="flex items-center gap-3">
             <Link to="/login">
@@ -299,10 +299,10 @@ export function LandingPage() {
               <div className="bg-severity-high/10 p-2 rounded-lg">
                 <ShieldCheck className="h-5 w-5 text-severity-high" />
               </div>
-              <span className="font-semibold">AlertGuard</span>
+              <span className="font-semibold">UltraWatch</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2026 AlertGuard. Keeping communities safe.
+              © 2026 UltraWatch. Keeping communities safe.
             </p>
           </div>
         </div>
